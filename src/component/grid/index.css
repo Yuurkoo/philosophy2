@@ -1,0 +1,13 @@
+.grid {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  /* position: relative; */
+}
+
+/* @media (max-width: 780px) {
+  .grid {
+    display: flex;
+    flex-direction: column;
+  }
+} */
